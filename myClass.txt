@@ -1,5 +1,5 @@
-Hello, world!
-Hello, people!
-Hello!
-Hello, my dear fiend!
-Glad to see you
+Hello, world!  ;
+Hello, people! ;
+Hello!         ;
+Hello, my dear fiend! ;
+Glad to see you       ;
